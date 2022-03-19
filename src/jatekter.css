@@ -1,0 +1,9 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+.Jatekter-refreshed{
+    display: grid;
+    grid-template-columns: repeat(3,50px);
+    grid-gap: 10px;
+}
